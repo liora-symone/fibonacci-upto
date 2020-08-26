@@ -3,7 +3,8 @@ This code prints the Fibonacci sequence up to a given input value, n.
 
 # Fibonacci numbers function
 def fibonacci(n):
-    
+
+# Set i to 0.
     i = 0
     
 # Condition 1: A number less than 1 is the input.
